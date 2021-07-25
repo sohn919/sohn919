@@ -1,5 +1,5 @@
 ![sohn919's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohn919&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohn919&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sohn919/sohn919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
