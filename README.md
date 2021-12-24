@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Participatory Project
+### Project
 
 + [스마트 어항 앱](https://github.com/sohn919/smart-fishbowl-android)
 + [세대별 택배 도난방지 시스템 앱](https://github.com/sohn919/summer_iot)
