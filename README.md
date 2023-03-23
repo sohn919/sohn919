@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### Project
 
-+ [어디든 전기차 충전 어댑터 앱](https://github.com/sohn919/charging_apps)(한전KDN 공모전 대상)
++ [전기차 충전 어댑터 앱](https://github.com/sohn919/charging_apps)(한전KDN 공모전 대상)
