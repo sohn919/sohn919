@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://capsule-render.vercel.app/api?
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 
 ![sohn919's github stats](https://github-readme-stats.vercel.app/api?username=sohn919&show_icons=true)
 [![Solved.ac
