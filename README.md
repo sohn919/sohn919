@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 -->
 
 
-![sohn919's github stats](https://github-readme-stats.vercel.app/api?username=sohn919&show_icons=true)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sohn919)](https://solved.ac/sohn919)
+<p align="center" display="inline-block">
+  ![sohn919's github stats](https://github-readme-stats.vercel.app/api?username=sohn919&show_icons=true)
+</p>
+<p align="center" display="inline-block">
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sohn919)](https://solved.ac/sohn919)
+</p>
+
 
 
 
